@@ -1,0 +1,22 @@
+,Data Type,Missing Count,Missing (%),Unique Values
+index,int64,0,0.0,337553
+stream,str,150514,44.59,7
+Zscore,float64,105249,31.18,33890
+district_rank,str,153254,45.4,8059
+island_rank,str,153254,45.4,47615
+al_year,int64,0,0.0,1
+sub1,str,0,0.0,51
+sub1_r,str,43581,12.91,6
+sub2,str,0,0.0,60
+sub2_r,str,45556,13.5,6
+sub3,str,0,0.0,60
+sub3_r,str,43332,12.84,7
+cgt_r,object,76628,22.7,116
+ge_r,str,66140,19.59,6
+syllabus,str,0,0.0,2
+birth_day,str,0,0.0,34
+birth_month,str,0,0.0,15
+birth_year,str,0,0.0,76
+gender,str,1484,0.44,3
+district_rank_num,float64,153254,45.4,7501
+island_rank_num,float64,153254,45.4,42071
